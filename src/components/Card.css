@@ -1,0 +1,22 @@
+.card {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    border: 5px solid rgb(97, 238, 254);
+    border-radius: 2rem;
+    padding: 1rem;
+}
+
+img {
+    width: 100%;
+}
+
+.button {
+    color: green;
+    text-decoration: none;
+    border: 2px solid green;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem
+}

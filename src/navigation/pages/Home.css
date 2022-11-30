@@ -1,0 +1,27 @@
+.homepage {
+    width: 100%;
+    /* margin: 4rem 0; */
+    /* padding: 0 2rem; */
+}
+
+.sectionTop {
+    width: 100%;
+    height: 30vh;
+    background-image: url("../../assets/img/photo-1512295767273-ac109ac3acfa\ 1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sectionBottom {
+    margin: 1rem 5rem;
+}
+
+.sectionBottom button {
+    padding: 0.5rem 1rem;
+    margin: 2rem 0;
+    color: green;
+    font-size: 1.1rem;
+    border: 2px solid green;
+    border-radius: 1rem;
+}
